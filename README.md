@@ -1,16 +1,6 @@
 Pokemon Project
 
 Este projeto é uma aplicação web simples que apresenta informações sobre personagens do universo Pokémon. Ele permite que os usuários naveguem pelas informações de diferentes personagens, incluindo seus nomes, nomes em japonês, imagens e descrições. Além disso, há a opção de mostrar informações de personagens aleatórios.
-Índice
-
-    Visão Geral
-    Funcionalidades
-    Tecnologias Utilizadas
-    Instalação
-    Uso
-    Estrutura do Projeto
-    Contribuição
-    Licença
 
 Visão Geral
 
